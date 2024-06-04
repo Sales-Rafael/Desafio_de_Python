@@ -1,0 +1,25 @@
+/* Remove o padding lateral da sidebar para que o "divider ocupe toda a pagina */
+.st-emotion-cache-qeahdt {
+    padding: 1rem 0rem 6rem;
+/* alinha o texto do sobre mim no centro */
+    text-align: center
+}
+.st-emotion-cache-qeahdt h1{
+    padding-top: 0px;
+}
+
+.st-emotion-cache-1dp5vir{
+    display: none;
+}
+.st-emotion-cache-1jicfl2{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+p, ol, ul, dl{
+    margin: 0%;
+}
+/* #MainMenu,
+.stDeployButton {
+  display: none;
+} */
