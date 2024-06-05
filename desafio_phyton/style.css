@@ -1,0 +1,30 @@
+/* Remove o padding lateral da sidebar para que o "divider ocupe toda a pagina */
+.st-emotion-cache-qeahdt {
+    padding: 1rem 0.5rem 6rem;
+}
+
+/* Centraliza o sobre mim */
+.centered{
+    text-align: center;
+}
+
+/* remove a barra superior do dashboard */
+.st-emotion-cache-1dp5vir{
+    display: none;
+}
+
+.st-emotion-cache-1jicfl2{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+/* Remove a margem do texto do sobre mim */
+p, ol, ul, dl{
+    margin: 0%;
+}
+
+/* Remove o botão do canto do dashboard */
+#MainMenu,
+.stDeployButton {
+  display: none;
+}
