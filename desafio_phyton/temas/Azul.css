@@ -1,0 +1,12 @@
+/* Define a cor do link e da fonte de acordo com o tema escolhido */
+#link, #link:visited{
+    color:#1f7dd0;
+}
+#link:hover{
+    /* Altera a cor do link quando o mouse está por cima */
+    color: #51afd1;
+}
+
+.st-cv, .st-b6{
+    color: #1f7dd0;
+}
