@@ -6,8 +6,8 @@
 
 ## Título e Descrição Geral
 
-**Desafio Python**
-O código apresenta um dashboard de preços de combustível no Brasil e nos EUA, a quantidade que as pessoas gastam com combustível e outros itens usando o cartão de crédito, e a média da quantidade de CO2 que as marcas de carro de 2022 emitem. Eu escolhi fazer sobre esse tema porque tenho interesse por carros e decidi criar algo relacionado.
+**Desafio Python**  
+O código apresenta um dashboard de preços de combustível no Brasil e nos EUA, a quantidade que as pessoas gastam no cartão de crédito com combustível e outros itens usando, e a média da quantidade de CO2 que as marcas de carro de 2022 emitem. Eu escolhi fazer sobre esse tema porque tenho interesse por carros e decidi criar algo relacionado.
 
 ## Demonstração de Uso e Instruções para Executar o Projeto
 
