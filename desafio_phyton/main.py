@@ -113,7 +113,7 @@ with st.sidebar:
     col_1_side,col_2_side,col_3_side = st.columns((3), gap='small')
     col_1_side.link_button('Instagram', 'https://www.instagram.com/rafaellnascimento._/')
     col_2_side.link_button('LinkedIn', 'https://www.linkedin.com/in/rafael-lucas-a0548b24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app')
-    col_3_side.link_button('GitHub', 'https://github.com/Sales-Rafel')
+    col_3_side.link_button('GitHub', 'https://github.com/Sales-Rafael')
 
 #######################
 # Apresentando plots no painel principal do dashboard 
